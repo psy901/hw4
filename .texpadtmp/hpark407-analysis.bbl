@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{rl}
+Reinforcement learning,\\
+  \texttt{https://en.wikipedia.org/wiki/Reinforcement\_learning}.
+
+\bibitem{qlearning}
+Reinforcement learning soup: Mdps, policy vs. value learning, q-learning and
+  deep-q-networks,
+  \texttt{https://medium.com/@jrodthoughts/reinforcement-learning-soup-mdps-policy-vs-value-learning-q-learning-and\\-deep-q-networks-4ac137acd07}.
+
+\bibitem{plan}
+Clustering algorithms and evaluations,\\
+  \texttt{https://www.cc.gatech.edu/~bboots3/CS4641-Fall2018/Lecture19/19\_MDPs2.pdf}.
+
+\bibitem{time}
+Sven Koenig and Reid~G Simmons.
+\newblock Complexity analysis of real-time reinforcement learning applied to
+  finding shortest paths in deterministic domains.
+\newblock Technical report, CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF
+  COMPUTER SCIENCE, 1992.
+
+\end{thebibliography}
